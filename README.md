@@ -1,3 +1,3 @@
-# Data-Science-Portfolio
+# Data-Anaylst-Portfolio
 
 Hey there!
