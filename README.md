@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio!
 
@@ -25,15 +25,15 @@ Analyse and build reports around identifying key performance indicators (KPIs) s
 
 The main objective of the call centre analysis is to enhance operational efficiency, improve customer satisfaction, and optimise resource allocation. The analysis is broken down into three main components to address different aspects of performance:
 * General KPIs: Metrics such as call volume, average handle time (AHT), first call resolution (FCR), and call forecasts
-* *Total Calls Answered
 * Interval Analysis: Metrics tracked across specific time intervals, including call volume by hour, peak periods, and trends in wait times
-* Agent Performance: Customer satisfaction metrics related to individual agents, team managers and different departments 
+* Agent Performance: To evaluate individual and team-level agent performance looking at NPS and CSAT scores for targeted improvements
 
 #### 2. Data Preparation
 
 #### Goal: Prepare the data for an effective data model for analysis.
 
 Key steps taken:
+
 
 In Power Query:
 
