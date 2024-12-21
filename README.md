@@ -9,3 +9,5 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 
 # Portfolio Projects
+
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
