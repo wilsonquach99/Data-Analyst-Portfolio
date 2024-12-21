@@ -28,11 +28,11 @@ Analyse and build reports around identifying key performance indicators (KPIs) s
 
 #### Goals achieved in this step:
 
--Broke down the analysis into three main components; general KPIs, Interval analysis and agent performance 
--Identified key metrics and attributes for each analysis section:
--General KPIs: Metrics such as call volume, average handle time (AHT), first call resolution (FCR), and call forecasts
--Interval Analysis: Metrics tracked across specific time intervals, including call volume by hour, peak periods, and trends in wait times
--Agent Performance: Customer satisfaction metrics related to individual agents, team managers and different departments 
+*Broke down the analysis into three main components; general KPIs, Interval analysis and agent performance 
+*Identified key metrics and attributes for each analysis section:
+*General KPIs: Metrics such as call volume, average handle time (AHT), first call resolution (FCR), and call forecasts
+*Interval Analysis: Metrics tracked across specific time intervals, including call volume by hour, peak periods, and trends in wait times
+*Agent Performance: Customer satisfaction metrics related to individual agents, team managers and different departments 
 
 2. Data Preparation
 
