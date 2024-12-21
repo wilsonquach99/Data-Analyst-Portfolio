@@ -14,13 +14,7 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 ### Call Centre Analysis Project
 
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
-
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/2.PNG)
-
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/3.PNG)
-
-### About this project
+#### About this project
 #### Project Goal
 Analyse and build reports around identifying key performance indicators (KPIs) such as average wait times, call resolution rates, agent performance and interval analysis to uncover deeper insights from the dataset.
 
@@ -52,6 +46,10 @@ In Power BI Desktop:
 
 4. Logical Considerations While Building the Dashboard
 
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
 
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/2.PNG)
+
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/3.PNG)
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/4.PNG)
