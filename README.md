@@ -12,7 +12,7 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 ## Power Bi Projects
 
-## Call Centre Analysis Project
+### Call Centre Analysis Project
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
 
