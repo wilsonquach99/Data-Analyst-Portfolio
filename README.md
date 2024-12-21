@@ -1,8 +1,8 @@
 # Data-Analyst-Portfolio
 
-Hi there and welcome to my data analyst portfolio!
+Welcome to my Data Analyst Portfolio!
 
-I have included a variety of projects that highlight my data analytics skills. These projects feature links to dashboards and reports I’ve created using tools like Power BI, Excel and SQL. They demonstrate my ability to analyse and present data in a clear, visually engaging manner that resonates with diverse stakeholders. Through these projects, I have gained valuable experience and enhanced my ability to present actionable insights effectively. I am eager to continue learning and growing in this field, continually refining my skills to uncover meaningful data-driven solutions.
+I have included a variety of projects that highlight my data analytics skills. These projects feature links to dashboards and reports I’ve created using tools such as Power BI, Excel and SQL. They demonstrate my ability to analyse and present data in a clear, visually engaging manner that resonates with diverse stakeholders. Through these projects, I have gained valuable experience and enhanced my ability to present actionable insights effectively. I am eager to continue learning and growing in the data analytics field, continually refining my skills to uncover meaningful data-driven solutions.
 
 
 Feel free to explore my work and get a glimpse into how I transform raw data into meaningful insights!
@@ -23,9 +23,9 @@ Analyse and build reports around identifying key performance indicators (KPIs) s
 
 #### Goals achieved in this step:
 
-* Broke down the analysis into three main components; general KPIs, Interval analysis and agent performance 
-* Identified key metrics and attributes for each analysis section:
+The main objective of the call centre analysis is to enhance operational efficiency, improve customer satisfaction, and optimise resource allocation. The analysis is broken down into three main components to address different aspects of performance:
 * General KPIs: Metrics such as call volume, average handle time (AHT), first call resolution (FCR), and call forecasts
+* *Total Calls Answered
 * Interval Analysis: Metrics tracked across specific time intervals, including call volume by hour, peak periods, and trends in wait times
 * Agent Performance: Customer satisfaction metrics related to individual agents, team managers and different departments 
 
