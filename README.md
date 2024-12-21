@@ -36,6 +36,8 @@ Key steps taken:
 
 
 In Power Query:
+* Identify and delete duplicate entries and ensuring that date and time formats are consistent 
+* Created a dedicated calendar and intervals table for time intelligence analysis 
 
 In Power BI Desktop:
 
