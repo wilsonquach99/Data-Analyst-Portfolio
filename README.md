@@ -34,9 +34,9 @@ Analyse and build reports around identifying key performance indicators (KPIs) s
 * Interval Analysis: Metrics tracked across specific time intervals, including call volume by hour, peak periods, and trends in wait times
 * Agent Performance: Customer satisfaction metrics related to individual agents, team managers and different departments 
 
-2. Data Preparation
+#### 2. Data Preparation
 
-Goal: Prepare the data for an effective data model for analysis.
+#### Goal: Prepare the data for an effective data model for analysis.
 
 Key steps taken:
 
