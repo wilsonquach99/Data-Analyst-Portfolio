@@ -14,7 +14,6 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 ### Call Centre Analysis Project
 
-#### About this project
 #### Project Goal
 Analyse and build reports around identifying key performance indicators (KPIs) such as average wait times, call resolution rates, agent performance and interval analysis to uncover deeper insights from the dataset.
 
