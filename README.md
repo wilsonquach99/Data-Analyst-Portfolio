@@ -76,6 +76,8 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ### Melbourne House Prices Analysis 
 
+#### Code: [MelbourneHousePricesAnalysis.xlsm](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Melbourne%20House%20Prices%20Analysis.xlsm)
+
 #### Project Goal
 Analyse and build a report to identify key seasonal trends in Melbourne house prices, focusing on top-performing suburbs and different market dynamics in different metropolitan regions
 
@@ -115,6 +117,8 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 ## SQL Projects
 
 ###  Running Carnival Database Design
+
+#### Code: [RunningCarnivalDatabaseDesign](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Running%20Carnival%20Database%20Design.zip)
 
 #### Goal:
 Design and implement a relational database to manage event data, race results, and participant information for a fictitious carnival, ensuring data consistency and efficient querying.
