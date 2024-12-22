@@ -118,7 +118,7 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 
 ###  Running Carnival Database Design
 
-#### Code: [RunningCarnivalDatabaseDesign](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Running%20Carnival%20Database%20Design.zip)
+#### Code: [RunningCarnivalDatabaseDesign.zip](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Running%20Carnival%20Database%20Design.zip)
 
 #### Goal:
 Design and implement a relational database to manage event data, race results, and participant information for a fictitious carnival, ensuring data consistency and efficient querying.
