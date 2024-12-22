@@ -66,7 +66,7 @@ The main objective of the call centre analysis is to enhance operational efficie
 * Dive deeper into the specific reasons for high AHT later in the day. Communicate with staffing as to why, are calls becoming more complex, or is it related to agent fatigue or training gaps, offering additional training or implementing strategies to manage more complex calls could help reduce AHT
 
 
-![Alt Text](C:\Users\Wilson\Pictures\Call Centre Analysis\1)
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/2.PNG)
 
