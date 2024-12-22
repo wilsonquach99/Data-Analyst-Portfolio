@@ -95,7 +95,7 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 * Created pivot tables to aggregate and analyse data by key dimensions, such as suburb, property type, and time period
 * Implemented a simple macro that allows users to switch between different parts of the dashboard such as refreshing and returning to the home menu
 
-#### Interpretation & Insights
+#### 3. Interpretation & Insights
 
 * House prices tend to peak during the spring/summer months and drop during the winter months. This seasonal fluctuation is likely driven by market activity, with more buyers entering the market in warmer months. As seen in the visual, there is a noticeable dip in property prices during the colder months (especially in April and July), suggesting a reduction in buyer activity and less competition for properties
 * The average unit price has remained relatively stable throughout the year, whereas house prices fluctuate more significantly during specific months
