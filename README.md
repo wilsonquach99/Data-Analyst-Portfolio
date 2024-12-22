@@ -8,8 +8,6 @@ I have included a variety of projects that highlight my data analytics skills. T
 Feel free to explore my work and get a glimpse into how I transform raw data into meaningful insights!
 
 
-# Portfolio Projects
-
 ## Power Bi Projects
 
 ### Call Centre Analysis Project
@@ -34,16 +32,21 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 Key steps taken:
 
-
 In Power Query:
-* Identify and delete duplicate entries and ensuring that date and time formats are consistent 
-* Created a dedicated calendar and intervals table for time intelligence analysis 
+* Identify and delete duplicate entries and making sure each column in the dataset has its appropriate data type
+* Created a dedicated calendar and intervals table for time intelligence analysis
 
 In Power BI Desktop:
+* Built calculated column to identify and classify the different call-handling metrics (Wait Time, Hold Time, and After-Call Work) by their duration in minutes
+* Built a customer satisfaction indicator calculated column for satisfaction rate calculation
+* Built a calculated table, obtaining the highest and lowest CSAT and NPS scores per agent using DAX functions like MAXX and FILTER
+* Implemented a measure to dynamically display the last N months based on user slicer selection
 
-3. Data Model
+#### 3. Data Modelling
 
-
+* Designed the data model using a star schema, with a central fact table linked to dimension tables.
+* Implemented snowflake schema where appropriate, normalizing dimension tables for better storage efficiency
+* With the previous steps and preparations, the data model can be established for dashboard building.
 
 4. Logical Considerations While Building the Dashboard
 
