@@ -68,4 +68,41 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/3.PNG)
 
+## Excel Projects
+
+### Melbourne House Prices Analysis 
+
+#### Project Goal
+Analyse and build a report to identify key seasonal trends in Melbourne house prices, focusing on top-performing suburbs and different market dynamics in different metropolitan regions
+
+#### Key Steps
+
+#### 1. Data Exploration
+
+#### Goals achieved in this step:
+The main objective of this analysis is to uncover seasonal fluctuations, identify high-performing suburbs, and explore the dynamics of different regions within Melbourne’s housing market.
+
+* Seasonal Price Trends: Investigating price fluctuations throughout the year to uncover seasonal patterns and their impact on house prices.
+* Suburb Performance: Analysing which suburbs have experienced the highest price growth, focusing on emerging and established areas.
+* Regional Differences: Exploring price disparities between various metropolitan regions, understanding how location influences pricing trends.
+
+#### 2. Data Preparation
+
+#### Key steps taken:
+
+* Cleaned the dataset by identifying and removing duplicates, filling missing values, and ensuring the accuracy of price data.
+* Created a dynamic chart with slicers to visualize seasonal trends and allow filtering by suburb, price range, or time period.
+* Created pivot tables to aggregate and analyse data by key dimensions, such as suburb, property type, and time period
+* Implemented a simple macro that allows users to switch between different parts of the dashboard such as refreshing and returning to the home menu
+
+#### Interpretation & Insights
+
+* House prices tend to peak during the spring/summer months and drop during the winter months. This seasonal fluctuation is likely driven by market activity, with more buyers entering the market in warmer months. As seen in the visual, there is a noticeable dip in property prices during the colder months (especially in April and July), suggesting a reduction in buyer activity and less competition for properties
+* The average unit price has remained relatively stable throughout the year, whereas house prices fluctuate more significantly during specific months
+* Prices in the inner-city suburbs are consistently higher compared to the outer suburbs, likely due to their proximity to business hubs and amenities
+* Some outer suburbs, however, show a higher growth rate in recent years, likely driven by increasing demand from first-time homebuyers and investors looking for more affordable properties
+* Areas like Bayside and Boroondara have higher average house prices, while more affordable regions such as Hume are showing promising growth trends in recent years
+
+
+
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/4.PNG)
