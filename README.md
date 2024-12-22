@@ -30,13 +30,13 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 #### Goal: Prepare the data for an effective data model for analysis.
 
-Key steps taken:
+#### Key steps taken:
 
-In Power Query:
+#### In Power Query:
 * Identify and delete duplicate entries and making sure each column in the dataset has its appropriate data type
 * Created a dedicated calendar and intervals table for time intelligence analysis
 
-In Power BI Desktop:
+#### In Power BI Desktop:
 * Built calculated column to identify and classify the different call-handling metrics (Wait Time, Hold Time, and After-Call Work) by their duration in minutes
 * Built a customer satisfaction indicator calculated column for satisfaction rate calculation
 * Built a calculated table, obtaining the highest and lowest CSAT and NPS scores per agent using DAX functions like MAXX and FILTER
@@ -48,7 +48,19 @@ In Power BI Desktop:
 * Implemented snowflake schema where appropriate, normalizing dimension tables for better storage efficiency
 * With the previous steps and preparations, the data model can be established for dashboard building.
 
-4. Logical Considerations While Building the Dashboard
+#### 4. Logical Considerations While Building the Dashboard
+
+* Incorporated target/benchmark values that are based on industry standards, using them as reference points rather than actual dataset targets (i.e AHT target was set to 635)
+* Average Handling Time (AHT) was calculated as the sum of hold time, after-work time, and talk time, some industries, only talk time or a different combination of times may be used to calculate AHT
+* CSAT score calculation was adjusted to include both positive and neutral surveys, while acknowledging that in some industries, only positive surveys are counted towards the score
+
+#### 5. Recommendations 
+
+* Encourage a stronger focus on gathering detailed customer feedback post-interaction (through surveys or follow-ups) to identify specific pain points that may be impacting CSAT and NPS scores
+* Based on my interval analysis, there should be an increase staffing during peak hours, particularly in the afternoon and evening, consider using flexible shifts or more part-time staff members
+* Offer multiple survey methods (e.g., SMS, email, IVR) to increase participation, also implement follow-up reminders to customers who have not responded to the initial survey request
+* Dive deeper into the specific reasons for high AHT later in the day. Communicate with staffing as to why, are calls becoming more complex, or is it related to agent fatigue or training gaps, offering additional training or implementing strategies to manage more complex calls could help reduce AHT
+
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
 
