@@ -91,7 +91,7 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 #### Key steps taken:
 
 * Cleaned the dataset by identifying and removing duplicates, filling missing values, and ensuring the accuracy of price data.
-* Created a dynamic chart with slicers to visualize seasonal trends and allow filtering by suburb, price range, or time period.
+* Created a dynamic chart with slicers to visualise seasonal trends and allow filtering by suburb, price range, or time period.
 * Created pivot tables to aggregate and analyse data by key dimensions, such as suburb, property type, and time period
 * Implemented a simple macro that allows users to switch between different parts of the dashboard such as refreshing and returning to the home menu
 
@@ -106,3 +106,31 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/4.PNG)
+
+
+## SQL Projects
+
+###  Running Carnival Database Design
+
+#### Goal:
+Design and implement a relational database to manage event data, race results, and participant information for a fictitious carnival, ensuring data consistency and efficient querying.
+
+#### Description:
+This project involved creating a relational database for a carnival event using Oracle SQL. The database was designed to handle tables for event details, race results, and participant information. It included setting up constraints to maintain data integrity, as well as writing advanced SQL queries involving joins, subqueries, and aggregation functions to manipulate the data. Transaction handling was also implemented to ensure the database maintained consistency during updates.
+
+#### Skills:
+
+* Database design and implementation
+* Oracle SQL (creating and altering tables, defining constraints)
+* Advanced SQL querying (joins, subqueries, aggregation functions)
+* Transaction management and data consistency
+
+#### Results:
+Successfully created a fully functional relational database for carnival data management. The use of advanced SQL queries enabled efficient data retrieval and manipulation, ensuring that event and race data was consistently updated and accurate. The project demonstrated an effective approach to database design and management while maintaining the integrity of the data.
+
+
+
+
+
+
+
