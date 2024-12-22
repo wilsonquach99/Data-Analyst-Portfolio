@@ -66,11 +66,11 @@ The main objective of the call centre analysis is to enhance operational efficie
 * Dive deeper into the specific reasons for high AHT later in the day. Communicate with staffing as to why, are calls becoming more complex, or is it related to agent fatigue or training gaps, offering additional training or implementing strategies to manage more complex calls could help reduce AHT
 
 
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/1.PNG)
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/1.PNG)
 
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/2.PNG)
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/2.PNG)
 
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/3.PNG)
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/3.PNG)
 
 ## Excel Projects
 
@@ -111,7 +111,7 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 
 
 
-![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/4.PNG)
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/4.PNG)
 
 
 ## SQL Projects
