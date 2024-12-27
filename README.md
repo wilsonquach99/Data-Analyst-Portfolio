@@ -17,11 +17,12 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 
 **Project Goal**
+
 Analyse and build reports around identifying key performance indicators (KPIs) such as average wait times, call resolution rates, agent performance and interval analysis to uncover deeper insights from the dataset.
 
 **Key Steps**
 
-** 1.Data Exploration**
+**1.Data Exploration**
 
 **Goals achieved in this step:**
 
@@ -30,13 +31,13 @@ The main objective of the call centre analysis is to enhance operational efficie
 * Interval Analysis: Metrics tracked across specific time intervals, including call volume by hour, peak periods, and trends in wait times
 * Agent Performance: To evaluate individual and team-level agent performance looking at NPS and CSAT scores for targeted improvements
 
-** 2. Data Preparation **
+**2. Data Preparation**
 
-#### Goal: Prepare the data for an effective data model for analysis.
+**Goal: Prepare the data for an effective data model for analysis.**
 
-#### Key steps taken:
+**Key steps taken:**
 
-#### In Power Query:
+**In Power Query:**
 * Identify and delete duplicate entries and making sure each column in the dataset has its appropriate data type
 * Created a dedicated calendar and intervals table for time intelligence analysis
 
