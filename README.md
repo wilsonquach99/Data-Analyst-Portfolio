@@ -14,7 +14,10 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 #### Code: [Cell Centre Metrics Analysis.pbix](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Cell%20Centre%20Metrics%20Analysis.pbix)
 
-## **2\. Data Preparation**
+
+**Data Preparation**
+
+
 
 
 #### Project Goal
