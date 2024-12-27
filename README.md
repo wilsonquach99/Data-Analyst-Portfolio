@@ -16,14 +16,14 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 
 
-** Project Goal **
+**Project Goal**
 Analyse and build reports around identifying key performance indicators (KPIs) such as average wait times, call resolution rates, agent performance and interval analysis to uncover deeper insights from the dataset.
 
-** Key Steps **
+**Key Steps**
 
-** 1. Data Exploration **
+** 1.Data Exploration**
 
-** Goals achieved in this step: **
+**Goals achieved in this step:**
 
 The main objective of the call centre analysis is to enhance operational efficiency, improve customer satisfaction, and optimise resource allocation. The analysis is broken down into three main components to address different aspects of performance:
 * General KPIs: Metrics such as call volume, average handle time (AHT), first call resolution (FCR), and call forecasts
