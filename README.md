@@ -14,7 +14,7 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 #### Code: [Cell Centre Metrics Analysis.pbix](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Cell%20Centre%20Metrics%20Analysis.pbix)
 
-
+## **Data Preparation**
 
 #### Project Goal
 Analyse and build reports around identifying key performance indicators (KPIs) such as average wait times, call resolution rates, agent performance and interval analysis to uncover deeper insights from the dataset.
