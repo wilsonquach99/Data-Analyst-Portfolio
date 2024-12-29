@@ -75,6 +75,50 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ## Excel Projects
 
+### Hospital Discharge Analysis 
+
+**Project Goal**
+Analyse hospital discharge data to understand demographic trends, admission types, risk factors, and financial aspects of hospital operations hence optimising efficiency, and enhancing financial performance.
+
+**Key Steps**
+
+**1. Data Exploration**
+
+**Goals achieved in this step:**
+
+* Data Organization: Data was categorised into meaningful segments, such as demographic, financial, and operational aspects.
+* Visualization: Complex datasets were transformed into intuitive visual insights, aiding better understanding of trends.
+* Trend Analysis: Key patterns in age group risk, admission types, and payment methods were identified, providing a foundation for targeted decision-making.
+
+**3. Interpretation & Insights**
+
+**Demographics and Mortality Risk:**
+The likelihood of severe health complications escalates with age, particularly for those aged 70 and older, where the majority fall under Major and Extreme risk categories.
+Younger age groups are predominantly categorized under Minor risk, underscoring the importance of preventive measures for elderly patients.
+
+**Admission Types:**
+Emergency admissions dominate hospital visits, accounting for over 67% of the cases, highlighting the need for robust emergency care infrastructure.
+Elective procedures form a significant portion, emphasizing the importance of planned healthcare services.
+
+**Gender and Ethnicity:**
+Non-Hispanic individuals represent the majority, while females have a slightly higher discharge rate than males, indicating gender-specific healthcare utilization trends.
+
+**Financial Insights:**
+University Hospital and St. Francis Hospital have the highest costs, significantly exceeding the average, suggesting potential inefficiencies or higher complexities in treatment.
+Eastern Long Island Hospital operates with the lowest costs, presenting a potential benchmark for cost-efficiency.
+
+**Length of Stay (LOS):**
+Facilities with higher discharge volumes generally exhibit shorter LOS, suggesting efficient operations.
+Variability in LOS across facilities indicates areas requiring performance optimization.
+
+**Pareto Analysis:**
+21.05% of procedures contribute to 80% of total charges, underscoring the criticality of focusing resources on these high-impact procedures.
+
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/5.PNG)
+
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/6.PNG)
+
+
 ### Melbourne House Prices Analysis 
 
 **Code: [MelbourneHousePricesAnalysis.xlsm](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Melbourne%20House%20Prices%20Analysis.xlsm)**
