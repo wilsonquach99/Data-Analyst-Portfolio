@@ -90,18 +90,18 @@ Analyse hospital discharge data to understand demographic trends, admission type
 * Visualization: Complex datasets were transformed into intuitive visual insights, aiding better understanding of trends.
 * Trend Analysis: Key patterns in age group risk, admission types, and payment methods were identified, providing a foundation for targeted decision-making.
 
-**3. Interpretation & Insights**
+**2. Interpretation & Insights**
 
 **Demographics and Mortality Risk:**
 The likelihood of severe health complications escalates with age, particularly for those aged 70 and older, where the majority fall under Major and Extreme risk categories.
-Younger age groups are predominantly categorized under Minor risk, underscoring the importance of preventive measures for elderly patients.
+Younger age groups are predominantly categorised under Minor risk, underscoring the importance of preventive measures for elderly patients.
 
 **Admission Types:**
 Emergency admissions dominate hospital visits, accounting for over 67% of the cases, highlighting the need for robust emergency care infrastructure.
-Elective procedures form a significant portion, emphasizing the importance of planned healthcare services.
+Elective procedures form a significant portion, emphasising the importance of planned healthcare services.
 
 **Gender and Ethnicity:**
-Non-Hispanic individuals represent the majority, while females have a slightly higher discharge rate than males, indicating gender-specific healthcare utilization trends.
+Non-Hispanic individuals represent the majority, while females have a slightly higher discharge rate than males, indicating gender-specific healthcare utilisation trends.
 
 **Financial Insights:**
 University Hospital and St. Francis Hospital have the highest costs, significantly exceeding the average, suggesting potential inefficiencies or higher complexities in treatment.
