@@ -77,6 +77,8 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ### Hospital Discharge Analysis 
 
+**Code: [Hospital Inpatient Discharge.xlsx](https://drive.google.com/file/d/1mIGICDd3Xi5GzLP-WyAeFD6sWRsqPph-/view)**
+
 **Project Goal:**
 
 Analyse hospital discharge data to understand demographic trends, admission types, risk factors, and financial aspects of hospital operations hence optimising efficiency, and enhancing financial performance.
