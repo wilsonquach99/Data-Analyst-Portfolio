@@ -16,7 +16,7 @@ Feel free to explore my work and get a glimpse into how I transform raw data int
 
 
 
-**Project Goal**
+**Project Goal:**
 
 Analyse and build reports around identifying key performance indicators (KPIs) such as average wait times, call resolution rates, agent performance and interval analysis to uncover deeper insights from the dataset.
 
@@ -77,7 +77,8 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ### Hospital Discharge Analysis 
 
-**Project Goal**
+**Project Goal:**
+
 Analyse hospital discharge data to understand demographic trends, admission types, risk factors, and financial aspects of hospital operations hence optimising efficiency, and enhancing financial performance.
 
 **Key Steps**
@@ -124,6 +125,7 @@ Variability in LOS across facilities indicates areas requiring performance optim
 **Code: [MelbourneHousePricesAnalysis.xlsm](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Melbourne%20House%20Prices%20Analysis.xlsm)**
 
 **Project Goal**
+
 Analyse and build a report to identify key seasonal trends in Melbourne house prices, focusing on top-performing suburbs and different market dynamics in different metropolitan regions
 
 **Key Steps**
@@ -165,7 +167,7 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 
 **Code: [RunningCarnivalDatabaseDesign.zip](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Running%20Carnival%20Database%20Design.zip)**
 
-**Goal:**
+**Project Goal:**
 Design and implement a relational database to manage event data, race results, and participant information for a fictitious carnival, ensuring data consistency and efficient querying.
 
 **Description:**
