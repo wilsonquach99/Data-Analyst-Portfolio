@@ -158,9 +158,27 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 * Some outer suburbs, however, show a higher growth rate in recent years, likely driven by increasing demand from first-time homebuyers and investors looking for more affordable properties
 * Areas like Bayside and Boroondara have higher average house prices, while more affordable regions such as Hume are showing promising growth trends in recent years
 
-
-
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/4.PNG)
+
+### Inventory Management 
+
+**Code: [Inventory Management.xlsx](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Inventory%20Management.xlsx)**
+
+**Project Goal:**
+To analyse and manage inventory data by linking multiple datasets, extracting key insights, and optimising the presentation of critical information such as stock levels, supplier details, and inventory performance.
+
+**Description:**
+This project focused on analyzing inventory data using advanced Excel techniques to ensure accurate data linking, retrieval, and reporting. The analysis involved using functions such as XLOOKUP, VLOOKUP, INDEX, and MATCH to dynamically extract and consolidate data from multiple sources. Key metrics such as inventory levels, and restocking trends were derived through advanced formulas and dynamic range calculations. Conditional formatting and interactive dashboards were created to visualise inventory performance, making the data more accessible and actionable.
+
+**Skills:**
+
+* Advanced Excel functions (XLOOKUP, VLOOKUP, INDEX, MATCH, IFERROR)
+* Data organization and dynamic formula creation
+* Error handling and robust formula optimization
+
+**Results:**
+
+Successfully analyzed and visualised inventory data, identifying trends such as high-demand products and low-stock items. Dynamic formulas and robust error handling ensured the accuracy of data retrieval, while interactive dashboards provided actionable insights for inventory management.
 
 
 ## SQL Projects
