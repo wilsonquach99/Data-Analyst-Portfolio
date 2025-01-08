@@ -71,6 +71,29 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/3.PNG)
 
+### Human Resources Key Performance Indicators 
+
+**Project Goal:**
+
+Analyse and build a dashboard for Human Resources teams by visualising key metrics related to headcount, hires, salaries, terminations and operational performance reports, and to uncover deeper insights from the dataset.
+
+**Key Steps**
+
+**1. Data Preparation**
+
+The HR dataset was generated using ChatGPT, by using careful prompting to ensure that the data structure is as realistic as possible through validating the dataset with descriptive statistics and then refining the data for more accurate representation of real-life dataset. 
+
+**Key Steps**
+* Created calculated measures and columns using advanced DAX to derive key metrics such as Hire Rate, Termination Rate, and YoY growth for each KPI
+* Utilised DAX to create conditional formatting rules for both font and background colors to enhance visual clarity and usability such as decreases' in YoY will be shown in red, while increases in green
+
+**2. Visual Analysis**
+* SVG visuals were integrated into the report for an innovative and polished appearance. Dashboard was recreated and inspired by one of Injae Park's classrooms which involves copying existing SVG templates and customising them for specific use cases, such as delta (change) KPIs
+* Leveraged reusable templates for icons and charts, providing consistent visual representation
+* Created column graphs to visualise YoY changes between different quarters, adhering to IBCS-styled standards
+*  Incorporated dropdown menus for KPI selection, enabling the dashboard to focus on specific metrics (e.g., headcount, hires, terminations) based on user preferences
+
+
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/7.PNG)
 
 ## Excel Projects
@@ -168,7 +191,7 @@ The main objective of this analysis is to uncover seasonal fluctuations, identif
 To analyse and manage inventory data by linking multiple datasets, extracting key insights, and optimising the presentation of critical information such as stock levels, supplier details, and inventory performance.
 
 **Description:**
-This project focused on analyzing inventory data using advanced Excel techniques to ensure accurate data linking, retrieval, and reporting. The analysis involved using functions such as XLOOKUP, VLOOKUP, INDEX, and MATCH to dynamically extract and consolidate data from multiple sources. Key metrics such as inventory levels, and restocking trends were derived through advanced formulas and dynamic range calculations. Conditional formatting and interactive dashboards were created to visualise inventory performance, making the data more accessible and actionable.
+This project focused on analysing inventory data using advanced Excel techniques to ensure accurate data linking, retrieval, and reporting. The analysis involved using functions such as XLOOKUP, VLOOKUP, INDEX, and MATCH to dynamically extract and consolidate data from multiple sources. Key metrics such as inventory levels, and restocking trends were derived through advanced formulas and dynamic range calculations. Conditional formatting and interactive dashboards were created to visualise inventory performance, making the data more accessible and actionable.
 
 **Skills:**
 
