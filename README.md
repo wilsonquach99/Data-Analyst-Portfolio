@@ -71,6 +71,8 @@ The main objective of the call centre analysis is to enhance operational efficie
 
 ![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/3.PNG)
 
+![Alt Text](https://github.com/wilsonquach99/Data-Analyst-Portfolio/blob/main/Dashboards/7.PNG)
+
 ## Excel Projects
 
 ### Hospital Discharge Analysis 
