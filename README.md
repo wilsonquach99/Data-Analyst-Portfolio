@@ -88,7 +88,7 @@ The HR dataset was generated using ChatGPT, by using careful prompting to ensure
 * Utilised DAX to create conditional formatting rules for both font and background colors to enhance visual clarity and usability such as decreases' in YoY will be shown in red, while increases in green
 
 **2. Visual Analysis**
-* SVG visuals were integrated into the report for an innovative and polished appearance. Dashboard was recreated and inspired by one of Injae Park's classrooms which involves copying existing SVG templates and customising them for specific use cases, such as delta (change) KPIs
+* SVG visuals were integrated into the report for an innovative and polished appearance. Dashboard was inspired by one of Injae Park's classrooms which involves copying existing SVG templates and customising them for specific use cases, such as delta (change) KPIs
 * Leveraged reusable templates for icons and charts, providing consistent visual representation
 * Created column graphs to visualise YoY changes between different quarters, adhering to IBCS-styled standards
 *  Incorporated dropdown menus for KPI selection, enabling the dashboard to focus on specific metrics (e.g., headcount, hires, terminations) based on user preferences
